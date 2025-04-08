@@ -1,7 +1,11 @@
-# System Metrics Dashboard
+# System Metrics Dashboard 
 <img src="https://github.com/user-attachments/assets/bea6d1c2-fe37-442c-8ef7-17bcd618d1c7" alt="Tomcat Hardening Recommendations" width="600"/>
 
 A lightweight web application built with Flask to monitor system metrics in real-time. It tracks CPU, memory, and disk usage, streaming the data to a browser-based bar chart using Server-Sent Events (SSE) and Chart.js. The dashboard updates approximately every 1 second and displays the last 50 data points, providing a clear, large visualization of system performance.
+
+## Demo Link
+Check out a live demo of the dashboard here:  
+[**Live Demo**](https://metrics-app-v72o.onrender.com/)
 
 ## Features
 - Real-time monitoring of:
