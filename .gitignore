@@ -1,0 +1,43 @@
+# Python virtual environment
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Generated metrics file
+metrics.json
+
+# Flask-specific
+instance/
+*.log
+
+# Development environment files
+*.env
+.env
+.env.local
+*.flaskenv
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Package management
+pip-log.txt
+Pipfile.lock
+
+# Testing and coverage
+*.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
