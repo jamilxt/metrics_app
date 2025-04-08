@@ -105,12 +105,3 @@ metrics_app/
 
 ## License
 This project is open-source and unlicensed—use and modify it freely!
-
----
-
-### How to Use This
-1. In your `metrics_app` folder, create a file named `README.md`.
-2. Copy the text above into it and save.
-3. Open it in a Markdown viewer (e.g., VS Code, GitHub) to see it formatted.
-
-This README assumes your latest code matches our recent iterations (bar chart, 50 points, ~1-second updates). If your code has unique features (e.g., different metrics, chart type), let me know, and I’ll tweak the documentation. How’s the project feeling for you now? Anything else you’d like in the README?
